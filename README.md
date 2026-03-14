@@ -2,16 +2,16 @@
 
 A comprehensive Exploratory Data Analysis (EDA) project using Python and Pandas to uncover trends in the world of roller coasters. This project focuses on data cleaning, handling complex data types (like GPS coordinates), and visualizing correlations between physical attributes and coaster performance.
 
-## 🚀 Project Overview
+## Project Overview
 This project was built to practice "manual" Data Analysis—moving away from AI-assisted autocomplete and focusing on core Python and SQL logic. It takes a raw, messy dataset of roller coaster statistics and transforms it into actionable insights.
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python:** Primary language for data manipulation.
 - **Pandas:** Used for data cleaning, filtering, and aggregation.
 - **Matplotlib & Seaborn:** Used for statistical visualization and trend analysis.
 - **PyCharm:** Professional IDE used for script development and debugging.
 
-## 📊 Key Analysis Phases
+## Key Analysis Phases
 
 ### 1. Data Understanding & Cleaning
 - **Shape & Type Inspection:** Identifying missing values and incorrect data types.
